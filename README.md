@@ -3,7 +3,7 @@
 
   <p align="center">
 
-[![Site preview](/public/social-image.png)](https://hashirshoaeb.github.io/home)
+[![Site preview](/public/social-image.png)](https://hashirshoaeb.github.io/home)(https://UttamMehta.github.io/home)
 
 ## Technology Stack 🛠️
 
@@ -17,25 +17,24 @@ Dependencies defined in package.json:
 
 ## Structure ⚓
 
-- Navigation bar (optional)
+- Navigation bar
 - Body
   - Name | Profession
-  - Contact / Follow / Find me / Facebook / LinkedIn / GitHub / Instagram / Email / CodePen
+  - Contact / LinkedIn / GitHub
   - Resume | About me
 - About Me
-  - Display picture (optional)
+  - Display picture 
   - About myself, my Interests, Goals and Hobbies
   - Things I'm good at (Skills)
   - Resume button
-- Recent Projects (using GitHub API) (optional)
-- Leadership (optional)
+- Recent Projects (using GitHub API) 
   - Paragraph
   - Carousel images
-- Skills (optional)
+- Skills 
   - Technical Skills
   - Soft Skills
 - Footer
-  - Footer Note (optional)
+  - Footer Note 
   - Copyrights - open source
   - Acknowledgements.
 

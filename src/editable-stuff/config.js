@@ -55,7 +55,7 @@ const about = {
   imageLink: "https://avatars.githubusercontent.com/u/111144552?v=4",
   imageSize: 375,
   message:
-    "I'am Uttam Kumar Mehta.Currently studing BCA from KIIT Unversity,IGNOU.Started learning basic of Java in 2014 to know how some lines of code solve big problem in real world joined Masai School.In Masai School I did three major project where all the functionality part has been implemented by me and now I'm most passionate about working in collaborative poject, and my goal is to pursue this passion within the field of software engineering .",
+    "I'am Uttam Kumar Mehta.Currently studing BCA from KIIT Unversity,IGNOU.Started learning basic of Java in 2014.To know how some lines of code solve big problem in real world joined Masai School.In Masai School I did three major project where all the functionality part has been implemented by me and now I'm most passionate about working in collaborative poject, and my goal is to pursue this passion within the field of software engineering .",
   resume:
     "https://drive.google.com/file/d/1p3pkDTMXWei5U1YrWQf7YIYDtcy7upil/view?usp=sharing",
 };
@@ -70,7 +70,7 @@ const repos = {
   heading: "Recent Projects",
   gitHubUsername: "UttamMehta", //i.e."johnDoe12Gh"
   reposLength: 0,
-  specificRepos: ["LARQ", "ESPNsports"],
+  specificRepos: ["FullStackApplication", "LARQ", "ESPNsports"],
 };
 
 // Leadership SECTION
@@ -103,7 +103,7 @@ const skills = {
   heading: "Skills",
   hardSkills: [
     { name: "JavaScript", value: 90 },
-    { name: "HTML/CSS", value: 90 },
+    { name: "HTML/CSS", value: 75 },
     { name: "React", value: 90 },
     { name: "Chakra UI", value: 75 },
     { name: "Redux", value: 90 },
@@ -154,6 +154,7 @@ const blog = {
 };
 
 const images = [
+  require("../assets/img/Practo.png"),
   require("../assets/img/Larq.png"),
   require("../assets/img/Espn.png"),
 ];
