@@ -17,10 +17,12 @@ import Navbar from "./components/Navbar";
 import Skills from "./components/home/Skills";
 import { Blog } from "./components/blog/Blog";
 import GetInTouch from "./components/home/GetInTouch.jsx";
+import index from "./index.js"
 
 const Home = React.forwardRef((props, ref) => {
   return (
     <>
+    <div>hi</>
       <MainBody
         gradient={mainBody.gradientColors}
         title={`${mainBody.firstName} ${mainBody.middleName} ${mainBody.lastName}`}
